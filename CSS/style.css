@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background-color: #331D2C;
+}
+
+#home h1{
+    font-weight: bold;
+    font-size: 4.5rem;
+    color: #EFE1D1;
+}
+
+p{
+    font-size: 3rem;
+    color: #EFE1D1;
+}
+
+button{
+    font-size: 32px;
+    padding: 20px;
+    background-color: #F31559;
+    color: #331D2C;
+    border: 0;
+    border-radius: 13px;
+    transition: background .5s , color .5s;
+    cursor: pointer;
+
+}
+button:hover{
+    background-color: #18122B;
+    color: #F31559;
+}
